@@ -2,7 +2,6 @@
 - 👀 I’m interested in Android Developement
 - 🌱 I’m currently learning Kotlin and C language
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 Instagram : Karina_koul
 
 <!---
 kkoul19/kkoul19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
